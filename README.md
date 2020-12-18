@@ -1,1 +1,1 @@
-Readme
+This is my final project at the University of Michigan. It is a sound effect generator that takes in user voice and determines the desired effect. Once the effect is determined it takes the following audio and performs an effect on it. The audio must be recorded at runtime, however there is a training model which will be added in a later commit.
